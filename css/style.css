@@ -1,0 +1,149 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../images/sunset.jpg"); }
+
+p {
+  color: #fff;
+  padding: 0px; }
+
+.notification, .notification-error, .notification-warning {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  color: #000;
+  line-height: 2;
+  font-size: 20px; }
+
+.notification-error {
+  background-color: red;
+  font-size: 25px; }
+
+.notification-warning {
+  background-color: yellow; }
+
+.notification:nth-of-type(1), .notification-error:nth-of-type(1), .notification-warning:nth-of-type(1) {
+  content: 100ms; }
+
+.notification:nth-of-type(2), .notification-error:nth-of-type(2), .notification-warning:nth-of-type(2) {
+  content: 200ms; }
+
+.notification:nth-of-type(3), .notification-error:nth-of-type(3), .notification-warning:nth-of-type(3) {
+  content: 300ms; }
+
+.notification:nth-of-type(4), .notification-error:nth-of-type(4), .notification-warning:nth-of-type(4) {
+  content: 400ms; }
+
+.notification:nth-of-type(5), .notification-error:nth-of-type(5), .notification-warning:nth-of-type(5) {
+  content: 500ms; }
+
+.notification:nth-of-type(6), .notification-error:nth-of-type(6), .notification-warning:nth-of-type(6) {
+  content: 600ms; }
+
+.notification:nth-of-type(7), .notification-error:nth-of-type(7), .notification-warning:nth-of-type(7) {
+  content: 700ms; }
+
+.notification:nth-of-type(8), .notification-error:nth-of-type(8), .notification-warning:nth-of-type(8) {
+  content: 800ms; }
+
+.notification:nth-of-type(9), .notification-error:nth-of-type(9), .notification-warning:nth-of-type(9) {
+  content: 900ms; }
+
+.notification:nth-of-type(10), .notification-error:nth-of-type(10), .notification-warning:nth-of-type(10) {
+  content: 1000ms; }
+
+.notification:nth-of-type(11), .notification-error:nth-of-type(11), .notification-warning:nth-of-type(11) {
+  content: 1100ms; }
+
+.notification:nth-of-type(12), .notification-error:nth-of-type(12), .notification-warning:nth-of-type(12) {
+  content: 1200ms; }
+
+.notification:nth-of-type(13), .notification-error:nth-of-type(13), .notification-warning:nth-of-type(13) {
+  content: 1300ms; }
+
+.notification:nth-of-type(14), .notification-error:nth-of-type(14), .notification-warning:nth-of-type(14) {
+  content: 1400ms; }
+
+.notification:nth-of-type(15), .notification-error:nth-of-type(15), .notification-warning:nth-of-type(15) {
+  content: 1500ms; }
+
+.notification:nth-of-type(16), .notification-error:nth-of-type(16), .notification-warning:nth-of-type(16) {
+  content: 1600ms; }
+
+.notification:nth-of-type(17), .notification-error:nth-of-type(17), .notification-warning:nth-of-type(17) {
+  content: 1700ms; }
+
+.notification:nth-of-type(18), .notification-error:nth-of-type(18), .notification-warning:nth-of-type(18) {
+  content: 1800ms; }
+
+.notification:nth-of-type(19), .notification-error:nth-of-type(19), .notification-warning:nth-of-type(19) {
+  content: 1900ms; }
+
+.notification:nth-of-type(20), .notification-error:nth-of-type(20), .notification-warning:nth-of-type(20) {
+  content: 2000ms; }
+
+.notification:nth-of-type(21), .notification-error:nth-of-type(21), .notification-warning:nth-of-type(21) {
+  content: 2100ms; }
+
+.notification:nth-of-type(22), .notification-error:nth-of-type(22), .notification-warning:nth-of-type(22) {
+  content: 2200ms; }
+
+.notification:nth-of-type(23), .notification-error:nth-of-type(23), .notification-warning:nth-of-type(23) {
+  content: 2300ms; }
+
+.notification:nth-of-type(24), .notification-error:nth-of-type(24), .notification-warning:nth-of-type(24) {
+  content: 2400ms; }
+
+.notification:nth-of-type(25), .notification-error:nth-of-type(25), .notification-warning:nth-of-type(25) {
+  content: 2500ms; }
+
+.notification:nth-of-type(26), .notification-error:nth-of-type(26), .notification-warning:nth-of-type(26) {
+  content: 2600ms; }
+
+.notification:nth-of-type(27), .notification-error:nth-of-type(27), .notification-warning:nth-of-type(27) {
+  content: 2700ms; }
+
+.notification:nth-of-type(28), .notification-error:nth-of-type(28), .notification-warning:nth-of-type(28) {
+  content: 2800ms; }
+
+.notification:nth-of-type(29), .notification-error:nth-of-type(29), .notification-warning:nth-of-type(29) {
+  content: 2900ms; }
+
+.notification:nth-of-type(30), .notification-error:nth-of-type(30), .notification-warning:nth-of-type(30) {
+  content: 3000ms; }
+
+.icon-alarm {
+  width: 35px;
+  height: 35px;
+  background-image: url("../images/alarm.png");
+  background-size: 35px; }
+
+.icon-chat {
+  width: 35px;
+  height: 35px;
+  background-image: url("../images/chat.png");
+  background-size: 35px; }
+
+.icon-folder {
+  width: 35px;
+  height: 35px;
+  background-image: url("../images/folder.png");
+  background-size: 35px; }
+
+.icon-alarm {
+  width: 35px;
+  height: 35px;
+  background-image: url("../images/alarm.png");
+  background-size: 35px; }
+
+.icon-chat {
+  width: 35px;
+  height: 35px;
+  background-image: url("../images/chat.png");
+  background-size: 35px; }
+
+.icon-folder {
+  width: 35px;
+  height: 35px;
+  background-image: url("../images/folder.png");
+  background-size: 35px; }

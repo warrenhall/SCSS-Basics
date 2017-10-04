@@ -1,0 +1,8 @@
+@each $name in 'alarm' 'chat' 'folder' {
+    .icon-#{$name} {
+        width: 35px;
+        height: 35px;
+        background-image: url('../images/#{$name}.png');
+        background-size: 35px;
+    }
+}

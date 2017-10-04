@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('../images/sunset.jpg');
+}
+p {
+    color: #fff;
+    padding: 0px;
+}
+@import 'notifications';
+@import 'grid';
+@import 'icons';
