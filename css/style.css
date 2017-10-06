@@ -7,7 +7,7 @@ p {
   color: #fff;
   padding: 0px; }
 
-.notification, .notification-error, .notification-warning {
+.notification-error, .notification-warning {
   width: 100%;
   height: 50px;
   text-align: center;
@@ -17,12 +17,12 @@ p {
   letter-spacing: 2px; }
 
 .notification-error {
-  background-color: rgba(255, 51, 51, 0.75);
-  font-size: 20px;
-  color: #fff; }
+  background-color: rgba(226, 74, 74, 0.75);
+  color: #333; }
 
 .notification-warning {
-  background-color: yellow; }
+  background-color: rgba(184, 184, 70, 0.75);
+  color: #eee; }
 
 .icon-alarm {
   width: 35px;
@@ -41,3 +41,5 @@ p {
   height: 35px;
   background-image: url("../images/folder.png");
   background-size: 35px; }
+
+/*# sourceMappingURL=style.css.map */
